@@ -13,7 +13,6 @@ private:
     string judgePhonenum;
     string aiLetter;
     string playerPhonenum;
-    int j_mess;
 public:
     Game(string judgePhonenum, string playerPhonenum);
     bool isJudge(string phonenum);
